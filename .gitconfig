@@ -1,6 +1,7 @@
 [user]
 	email = git@mauran.me
 	name = Mauran Muthiah
+	signingkey = rsa2048
 [core]
 	editor = vim~
 [color]
