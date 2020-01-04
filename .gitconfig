@@ -1,0 +1,9 @@
+[user]
+	email = git@mauran.me
+	name = Mauran Muthiah
+[core]
+	editor = vim~
+[color]
+	ui = true
+[alias]
+	
